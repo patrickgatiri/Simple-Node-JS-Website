@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "name": "client-side",
+  "version": "1.0.0",
+  "description": "The client side of the k8s testing application",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Patrick Gatiri",
+  "license": "ISC"
+}
